@@ -7,3 +7,4 @@
 - Recently, I have been working with [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/) and [Node](https://nodejs.org/). You can [read more about my full experience here](./EXPERIENCE.md).
 - I speak french, spanish, haitian creole and english. Right now, I'm learning italian.
 - I admin a [Dominican developer user group](https://www.facebook.com/groups/devdominicanos) with 6.4K members.
+- I have [presented 3 tech talks](https://github.com/rmariuzzo/talks) in spanish.
