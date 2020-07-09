@@ -5,6 +5,8 @@
  - **JavaScript** ★
  - **TypeScript** ★
  - PHP
+ - HTML
+ - CSS
  
  Also<sup>[1](#note-1)</sup>: C#, Java and VBA.
 
@@ -15,12 +17,20 @@
  - Redux
  - Easy Peasy
  - Laravel
+ - jQuery
  
- Also<sup>[1](#note-1)</sup>: jQuery, Backbone, Spring Framework, Hibernate.
+ Also<sup>[1](#note-1)</sup>: Backbone, Ember, Spring Framework and Hibernate.
+ 
+## Techniques
+
+ - Responsive design (mobile first).
  
 ## Tools
 
+ - Git
  - Docker
+ 
+Also<sup>[1](#note-1)</sup>: SVN.
  
 ## Services
 
