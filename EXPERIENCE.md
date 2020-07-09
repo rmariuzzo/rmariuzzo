@@ -4,9 +4,9 @@
 
  - **JavaScript** ★
  - **TypeScript** ★
- - Java
  - PHP
- - C#
+ 
+ Also<sup>[1](#note-1)</sup>: C#, Java and VBA.
 
 ## Frameworks / Libraries
 
@@ -16,19 +16,32 @@
  - Easy Peasy
  - Laravel
  
+ Also<sup>[1](#note-1)</sup>: jQuery, Backbone, Spring Framework, Hibernate.
+ 
 ## Tools
+
  - Docker
+ 
+## Services
+
+ - Vercel
+ - AWS
  
 ## Storage
 
  - MySQL
- - PostgreSQL
- - SQLite
  - MongoDB
- - <sub>Oracle</sub>
+ - SQLite
+ 
+ Also<sup>[1](#note-1)</sup>: Oracle and PostgreSQL.
  
 ## IDEs / Editors
 
  - **Visual Studio Code** ★
- - IntelliJ IDEA
- - Sublime Text
+ 
+ Also<sup>[1](#note-1)</sup>: IntelliJ IDEA and Sublime Text.
+ 
+---
+
+##### Note 1:
+That list is for things that I haven't used in the last 12 months.
