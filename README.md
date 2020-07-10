@@ -9,4 +9,4 @@
 - I admin a [Dominican developer user group](https://www.facebook.com/groups/devdominicanos) with 6.4K members.
 - I have [presented 3 tech talks](https://github.com/rmariuzzo/talks) in spanish.
 
-![](http://www.google-analytics.com/__utm.gif?utmac=UA-172355965-2&utmdt=github-rmariuzzo-profile&utmp=/rmariuzzo)
+![•](http://www.google-analytics.com/__utm.gif?utmac=UA-172355965-2&utmdt=github-rmariuzzo-profile&utmp=/rmariuzzo)
