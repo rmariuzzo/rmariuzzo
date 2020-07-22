@@ -23,7 +23,7 @@ const rootPath = path.join(__dirname, '..')
 
   const gitHubClient = new GraphQLClient('https://api.github.com/graphql', {
     headers: {
-      Authorization: `bearer ${process.env.GITHUB_TOKEN}`,
+      Authorization: `bearer ${process.env.GH_ACCESS_TOKEN}`,
     },
     method: 'POST'
   })
