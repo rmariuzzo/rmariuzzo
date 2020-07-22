@@ -1,4 +1,4 @@
-[![StackOverflow Reputation: {so_reputation}](https://img.shields.io/badge/StackOverflow-{so_reputation}-F27F33?logo=stackoverflow)]({so_link}) [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/rmariuzzo/rmariuzzo/actions/new)
+[![StackOverflow Reputation: {so_reputation}](https://img.shields.io/badge/StackOverflow-{so_reputation}-F27F33?logo=stackoverflow)]({so_link}) [![Last updated: less than 1 hour*](https://img.shields.io/badge/last%20updated-less%20than%201%20hour*-green)](https://github.com/rmariuzzo/rmariuzzo/actions)
 
 ### Hi there 👋 –  I'm Rubens!
 
