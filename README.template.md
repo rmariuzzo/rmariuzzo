@@ -6,6 +6,6 @@
 - I maintain [{gh_repos_count} open source projects](https://github.com/rmariuzzo?tab=repositories&q=&type=source) in my spare time.
 - Recently, I have been working with [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/) and [Node](https://nodejs.org/). You can [read more about my full experience here](https://github.com/rmariuzzo/rmariuzzo/blob/master/EXPERIENCE.md).
 - I speak french, spanish, haitian creole and english. Right now, I'm learning italian.
-- I admin a [Dominican developer user group](https://www.facebook.com/groups/devdominicanos) with 6.4K members.
+- I admin a [Dominican developer user group](https://www.facebook.com/groups/devdominicanos) with 6.6K members.
 - I have [presented 3 tech talks](https://github.com/rmariuzzo/talks) in spanish.
 - I have attended a few conferences such as [CodeCampSDQ](https://codecampsdq.com/), [ReactEurope](https://www.react-europe.org/), [GitHub Universe](https://githubuniverse.com/), [Caribbean Developers Conference](https://cdc.dev/) and [NodeConf Colombia](https://colombia.nodeconf.com/).
