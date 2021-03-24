@@ -2,6 +2,11 @@
 
 ### Hi there 👋 –  I'm Rubens!
 
+|  |
+| --- 
+| On 2016, I was diagnosed with Hodgkin's Lymphoma a blood cancer, and I underwent chemotheraphy. **On March 1st, the cancer returned, and I've started another chemotheraphy treatment on March 23rd, 2021.** This can explain my slow response in some cases. If you would like more details, [I have a blog for it](https://gothodgkin.tumblr.com/). Happy coding!
+|  |
+
 - I'm currently working at [X-Team](https://x-team.com/) as a full stack web developer helping [leading companies](https://x-team.com/case-studies/) to succeed.
 - I maintain [{gh_repos_count} open source projects](https://github.com/rmariuzzo?tab=repositories&q=&type=source) in my spare time.
 - Recently, I have been working with [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/) and [Node](https://nodejs.org/). You can [read more about my full experience here](https://github.com/rmariuzzo/rmariuzzo/blob/master/EXPERIENCE.md).
