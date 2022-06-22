@@ -19,7 +19,7 @@
   "homepage": "https://github.com/rmariuzzo/rmariuzzo#readme",
   "dependencies": {
     "execa": "^4.0.3",
-    "got": "^11.5.1",
+    "got": "^11.8.5",
     "graphql-request": "^2.1.0-next.1",
     "jq": "^1.7.2",
     "numeral": "^2.0.6",
