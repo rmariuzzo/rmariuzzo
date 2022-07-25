@@ -4,7 +4,7 @@
 
 |  |
 | --- 
-| On 2016, I was diagnosed with Hodgkin's Lymphoma a blood cancer, and I underwent chemotheraphy. **On March 1st, the cancer returned, and I've started another chemotheraphy treatment on March 23rd, 2021.** This can explain my slow response in some cases. If you would like more details, [I have a blog for it](https://mariuzzo.com/cancer). Happy coding!
+| On 2016, I was diagnosed with Hodgkin's Lymphoma a blood cancer, and I underwent chemotheraphy. **On March 1st, the cancer returned, and I've started another chemotheraphy treatment on March 23rd, 2021.** This can explain my slow response in some cases. If you would like more details, [I have a blog for it](https://mariuzzo.com/lymphoma). Happy coding!
 |  |
 
 - I'm currently working at [X-Team](https://x-team.com/) as a full stack web developer helping [leading companies](https://x-team.com/case-studies/) to succeed.
