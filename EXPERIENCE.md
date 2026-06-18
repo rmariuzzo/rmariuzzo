@@ -4,8 +4,9 @@
 
 - **JavaScript** <sup>[(specialized)](#specialized)</sup>
 - **TypeScript** <sup>[(specialized)](#specialized)</sup>
+- Node.js
 - PHP
-- Go <sup>_(learning)_</sup>
+- Go
 - HTML
 - CSS, Less, Sass.
 
@@ -16,7 +17,9 @@ Also<sup>[1](#note-1)</sup>: C#, Java and VBA.
 - **React** <sup>[(specialized)](#specialized)</sup>
 - **Styled Components** <sup>[(specialized)](#specialized)</sup>
 - **Redux** <sup>[(specialized)](#specialized)</sup>
+- Svelte
 - Easy Peasy
+- Express
 - Laravel
 - jQuery
 
@@ -36,6 +39,7 @@ Also<sup>[1](#note-1)</sup>: Backbone, Ember, Spring Framework and Hibernate.
 
 - **Git** <sup>[(specialized)](#specialized)</sup>
 - Docker
+- GitHub Actions
 
 Also<sup>[1](#note-1)</sup>: SVN.
 
